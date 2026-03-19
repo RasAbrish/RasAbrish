@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abrham+Ababu+👋;Full-Stack+Software+Engineer;Building+Impactis+🚀;Class+of+2026" alt="Typing SVG" />
 
   <p align="center">
+    <a href="https://t.me/RASAbrish"><img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/abrham-ababu-85a112297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://abrhamababuportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="mailto:abrhambest7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,55 +18,68 @@
 
 ---
 
-## ⚡ At a Glance
-> **Lead Frontend Developer** & **Full-Stack Engineer** specialized in high-performance web applications. I bridge the gap between complex backend logic (NestJS/PostgreSQL) and intuitive user interfaces (Next.js/Tailwind).
+## 🚀 About Me
+> **"Turning complex business logic into seamless digital experiences."**
 
-* 🏆 **2nd Place Winner** – Safaricom Capstone Project (FuelFinder)
-* 🏗️ **Current Focus:** Scaling Deal Infrastructure with **Impactis**
-* 🎓 **Education:** Computer Science, Graduating 2026
-* 🐧 **OS:** Linux Mint (Zara) | **Editor:** Cursor AI
+I am a Full-Stack Developer with a deep focus on **Enterprise-Grade Web Applications**. I specialize in **Monorepo Architectures**, **Type Safety**, and **Containerized Workflows**.
+
+* 🏆 **2nd Place Winner** – Safaricom Capstone Project (FuelFinder).
+* 🏗️ **Current Project:** Architecting **Impactis**, a deal execution platform.
+* 👨‍🏫 **Leadership:** ICT Club Advisor & Technical Mentor.
 
 ---
 
-## 🛠️ Tech Stack & Proficiency
+## 🛠️ Comprehensive Tech Stack
 
-### 💻 Core Development
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php,html,css" />
+</p>
 
-### 🗄️ Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🎨 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,redux,sass,figma" />
+</p>
+
+### ⚙️ Backend & Logic
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,prisma,graphql" />
+</p>
+
+### 🗄️ Database & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,firebase" />
+</p>
+
+### ☁️ DevOps & Automation Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vercel,netlify,n8n,cloudflare,nginx" />
+  <img src="https://img.shields.io/badge/ngrok-635BFF?style=flat-square&logo=ngrok&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Ecosystems
 
-### ⛽ Fuel Finder 
-*Award-Winning Real-time Fuel Tracking*
-`React` `Node.js` `Express` `Award Winner`
-> Led the frontend architecture for the Safaricom Capstone competition. 
-[**Explore Project 🔗**](https://fuel-finder-frontend.onrender.com/)
+### ⛽ Fuel Finder (Award Winner)
+> **2nd Place Winner** – Safaricom Capstone. Real-time fuel tracking and availability platform.
+- [**Live Demo 🔗**](https://fuel-finder-frontend.onrender.com/)
 
 ### 🤝 Impactis 
-*Deal Infrastructure & Execution*
-`NestJS` `Next.js` `Monorepo` `Prisma`
-> Building a sophisticated monorepo system for high-stakes business deal management.
+> High-performance **Deal Infrastructure** platform for business execution.
+- **Tech Stack:** NestJS, Next.js, Prisma, Monorepo Architecture
 
-### 🏠 AAHRAMS 
-*Addis Ababa Rental Agreement Management System*
-`Full-Stack` `Digital Governance`
-> Digitizing physical rental processes into a secure, database-driven platform.
+### 🌍 Wedet Tourism
+> Full-stack tourism booking and exploration platform.
+- [**Live Demo 🔗**](https://wedet-fe.vercel.app/)
+
+### 🧪 Yab Chemicals
+> Corporate digital presence for industrial chemical solutions.
+- [**Live Demo 🔗**](https://www.yabchemicals.com/)
 
 ---
 
-## 📊 Developer Metrics
+## 📊 Activity & Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RasAbrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -73,15 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasAbrish&theme=tokyonight&hide_border=true" width="92%" />
-</p>
-
----
-
-## 📈 Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasAbrish&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasAbrish&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF" width="95%" />
 </p>
 
 ---
