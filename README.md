@@ -18,43 +18,44 @@
 
 ---
 
-## 🚀 About Me
-> **"Engineering scalable ecosystems through Microservices and ERP-driven logic."**
+## 🚀 Professional Summary
+> **"Architecting scalable enterprise ecosystems through Microservices and Secure Logic."**
 
-I am a Full-Stack Engineer specializing in **Distributed Systems** and **Enterprise Resource Planning (ERP)** solutions. My expertise lies in breaking down complex business requirements into modular, high-performance microservices.
+I am a Full-Stack Software Engineer specializing in **Distributed Systems** and **ERP (Enterprise Resource Planning)** solutions. I focus on building highly secure, type-safe applications that bridge complex backend orchestration with premium, accessible user interfaces.
 
-* 🏗️ **Architectural Focus:** Monorepo Management, API Gateways, and Service Orchestration.
-* 🏆 **2nd Place Winner** – Safaricom Capstone (FuelFinder).
-* 👨‍🏫 **Leadership:** ICT Club Advisor & Technical Mentor.
+* 🛡️ **Security & Auth:** Advanced implementation of **Better Auth** and **JWT** for multi-tenant security.
+* 🎨 **UI Engine:** Professional-grade interfaces using **Shadcn UI**, **Radix UI**, and **Tailwind CSS**.
+* 🏗️ **Infrastructure:** Service-oriented architecture using **NestJS**, **Docker**, and **Nginx**.
+* 🏆 **Achievement:** 2nd Place Winner – Safaricom Capstone Project (FuelFinder).
 
 ---
 
-## 🛠️ The Master Stack
+## 🛠️ The Master Tech Stack
 
-### 🏗️ Architecture & ERP Focus
+### 🏗️ Architecture & Security
 ![Microservices](https://img.shields.io/badge/Microservices-00F7FF?style=for-the-badge&logo=opsgenie&logoColor=black)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=fingerprintjs&logoColor=white)
 ![ERP Systems](https://img.shields.io/badge/ERP_Systems-7B61FF?style=for-the-badge&logo=sap&logoColor=white)
 ![Monorepo](https://img.shields.io/badge/Monorepo-Architecture-white?style=for-the-badge&logo=turborepo&logoColor=red)
-![RestAPI](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rocket&logoColor=white)
 
-### ⚙️ Backend & Logic (The Core)
+### 💻 Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,java,cpp,prisma,graphql,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php,html,css" />
 </p>
 
-### 🎨 Frontend & Mobile
+### 🎨 Frontend & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,shadcnui,redux,sass,figma,bootstrap" />
 </p>
 
-### 🗄️ Database & Infrastructure
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,docker,nginx,githubactions" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,prisma,graphql,postgres,mysql,mongodb,redis" />
 </p>
 
-### 🔧 Tools & Automation
+### ☁️ DevOps & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,vercel,netlify,n8n,cloudflare,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vercel,netlify,n8n,cloudflare,nginx,postman" />
   <img src="https://img.shields.io/badge/ngrok-635BFF?style=flat-square&logo=ngrok&logoColor=white" />
 </p>
 
@@ -62,16 +63,18 @@ I am a Full-Stack Engineer specializing in **Distributed Systems** and **Enterpr
 
 ## 🚀 Featured Ecosystems
 
-### 🤝 Impactis (ERP/Deal Infrastructure)
-> A high-stakes **Deal Execution Platform** built on a Microservices architecture. 
-- **Focus:** Scalable transaction logic, NestJS Monorepo, and Prisma ORM.
+### 🤝 Impactis (Enterprise Deal Infrastructure)
+> A high-stakes **Execution Platform** utilizing a **NestJS Microservices** architecture. 
+- **Security:** Integrated **Better Auth** for robust session management.
+- **UI:** Custom dashboard built with **Shadcn UI** and **Next.js 15**.
+- **Data:** Complex relational mapping via **Prisma** and **PostgreSQL**.
 
 ### 🏠 AAHRAMS (Rental ERP)
-> A comprehensive **Enterprise System** for digitizing rental agreements in Addis Ababa.
-- **Focus:** Automated document generation and multi-tenant database management.
+> Digital governance system for managing rental agreements and property workflows.
+- **Focus:** Automated PDF generation, tenant auditing, and secure payment tracking.
 
 ### ⛽ Fuel Finder (Award Winner)
-> **2nd Place Winner** – Safaricom Capstone. 
+> **2nd Place Winner** – Safaricom Capstone. Real-time fuel tracking platform.
 - [**Live Demo 🔗**](https://fuel-finder-frontend.onrender.com/)
 
 ---
@@ -93,5 +96,5 @@ I am a Full-Stack Engineer specializing in **Distributed Systems** and **Enterpr
   <img src="https://komarev.com/ghpvc/?username=RasAbrish&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
   <br />
   <img src="https://img.shields.io/badge/Class_of-2026-00F7FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Designing_Microservices-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Architecting_Ecosystems-green?style=flat-square" />
 </div>
