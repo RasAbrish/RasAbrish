@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abrham+Ababu+👋;Full-Stack+Software+Engineer;Building+Impactis+🚀;Class+of+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abrham+Ababu+👋;Full-Stack+Software+Engineer;Microservices+%26+ERP+Architect;Building+Impactis+🚀" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://t.me/RASAbrish"><img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -19,41 +19,42 @@
 ---
 
 ## 🚀 About Me
-> **"Turning complex business logic into seamless digital experiences."**
+> **"Engineering scalable ecosystems through Microservices and ERP-driven logic."**
 
-I am a Full-Stack Developer with a deep focus on **Enterprise-Grade Web Applications**. I specialize in **Monorepo Architectures**, **Type Safety**, and **Containerized Workflows**.
+I am a Full-Stack Engineer specializing in **Distributed Systems** and **Enterprise Resource Planning (ERP)** solutions. My expertise lies in breaking down complex business requirements into modular, high-performance microservices.
 
-* 🏆 **2nd Place Winner** – Safaricom Capstone Project (FuelFinder).
-* 🏗️ **Current Project:** Architecting **Impactis**, a deal execution platform.
+* 🏗️ **Architectural Focus:** Monorepo Management, API Gateways, and Service Orchestration.
+* 🏆 **2nd Place Winner** – Safaricom Capstone (FuelFinder).
 * 👨‍🏫 **Leadership:** ICT Club Advisor & Technical Mentor.
 
 ---
 
-## 🛠️ Comprehensive Tech Stack
+## 🛠️ The Master Stack
 
-### 💻 Languages
+### 🏗️ Architecture & ERP Focus
+![Microservices](https://img.shields.io/badge/Microservices-00F7FF?style=for-the-badge&logo=opsgenie&logoColor=black)
+![ERP Systems](https://img.shields.io/badge/ERP_Systems-7B61FF?style=for-the-badge&logo=sap&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo-Architecture-white?style=for-the-badge&logo=turborepo&logoColor=red)
+![RestAPI](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rocket&logoColor=white)
+
+### ⚙️ Backend & Logic (The Core)
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,java,cpp,prisma,graphql,python" />
 </p>
 
-### 🎨 Frontend & UI
+### 🎨 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,redux,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,bootstrap,html,css" />
 </p>
 
-### ⚙️ Backend & Logic
+### 🗄️ Database & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,docker,nginx,githubactions" />
 </p>
 
-### 🗄️ Database & Systems
+### 🔧 Tools & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,firebase" />
-</p>
-
-### ☁️ DevOps & Automation Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vercel,netlify,n8n,cloudflare,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vercel,netlify,n8n,cloudflare,postman,figma" />
   <img src="https://img.shields.io/badge/ngrok-635BFF?style=flat-square&logo=ngrok&logoColor=white" />
 </p>
 
@@ -61,21 +62,17 @@ I am a Full-Stack Developer with a deep focus on **Enterprise-Grade Web Applicat
 
 ## 🚀 Featured Ecosystems
 
+### 🤝 Impactis (ERP/Deal Infrastructure)
+> A high-stakes **Deal Execution Platform** built on a Microservices architecture. 
+- **Focus:** Scalable transaction logic, NestJS Monorepo, and Prisma ORM.
+
+### 🏠 AAHRAMS (Rental ERP)
+> A comprehensive **Enterprise System** for digitizing rental agreements in Addis Ababa.
+- **Focus:** Automated document generation and multi-tenant database management.
+
 ### ⛽ Fuel Finder (Award Winner)
-> **2nd Place Winner** – Safaricom Capstone. Real-time fuel tracking and availability platform.
+> **2nd Place Winner** – Safaricom Capstone. 
 - [**Live Demo 🔗**](https://fuel-finder-frontend.onrender.com/)
-
-### 🤝 Impactis 
-> High-performance **Deal Infrastructure** platform for business execution.
-- **Tech Stack:** NestJS, Next.js, Prisma, Monorepo Architecture
-
-### 🌍 Wedet Tourism
-> Full-stack tourism booking and exploration platform.
-- [**Live Demo 🔗**](https://wedet-fe.vercel.app/)
-
-### 🧪 Yab Chemicals
-> Corporate digital presence for industrial chemical solutions.
-- [**Live Demo 🔗**](https://www.yabchemicals.com/)
 
 ---
 
@@ -96,5 +93,5 @@ I am a Full-Stack Developer with a deep focus on **Enterprise-Grade Web Applicat
   <img src="https://komarev.com/ghpvc/?username=RasAbrish&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
   <br />
   <img src="https://img.shields.io/badge/Class_of-2026-00F7FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building_Impactis-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Designing_Microservices-green?style=flat-square" />
 </div>
