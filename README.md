@@ -1,9 +1,12 @@
-
-
-
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abrham+Ababu+👋;Full-Stack+Software+Engineer;Microservices+%26+ERP+Architect;Building+Impactis+🚀" alt="Typing SVG" />
+
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Distributed_Systems-00F7FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Domain-ERP_%26_Microservices-9B59B6?style=flat-square" />
+    <img src="https://img.shields.io/badge/Based_in-Addis_Ababa_🇪🇹-green?style=flat-square" />
+  </p>
 
 ### Socials
 
@@ -31,7 +34,7 @@
               </a>
           </td>
           <td align="center" width="96">
-              <a href="https://abrhamababuportfolio.vercel.app/" target="_blank" rel="noreferrer">
+              <a href="https://abrhamababu.pro.et/" target="_blank" rel="noreferrer">
                 <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65"/>
               </br>
                Portfolio
@@ -53,6 +56,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RasAbrish/RasAbrish/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RasAbrish/RasAbrish/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
@@ -236,19 +245,41 @@ I am a Full-Stack Software Engineer specializing in **Distributed Systems** and 
 
 ## 🚀 Featured Ecosystems
 
-### 🤝 Impactis (Enterprise Deal Infrastructure)
-> A high-stakes **Execution Platform** utilizing a **NestJS Microservices** architecture. 
+### 🤝 Impactis — Enterprise Deal Infrastructure
+> A high-stakes **Execution Platform** utilizing a **NestJS Microservices** architecture.
 - **Security:** Integrated **Better Auth** for robust session management.
 - **UI:** Custom dashboard built with **Shadcn UI** and **Next.js 15**.
 - **Data:** Complex relational mapping via **Prisma** and **PostgreSQL**.
+- `NestJS` · `Next.js` · `Better Auth` · `Prisma` · `PostgreSQL`
 
-### 🏠 AAHRAMS (Rental ERP)
-> Digital governance system for managing rental agreements and property workflows.
+### 🏠 AAHRAMS — Rental ERP
+> Full-stack rental agreement platform presented to Addis Ababa city stakeholders for real-world adoption.
 - **Focus:** Automated PDF generation, tenant auditing, and secure payment tracking.
+- [**Live Demo 🔗**](https://aahrams.onrender.com/) · `React` · `Node.js` · `Docker`
 
-### ⛽ Fuel Finder (Award Winner)
-> **2nd Place Winner** – Safaricom Capstone. Real-time fuel tracking platform.
-- [**Live Demo 🔗**](https://fuel-finder-frontend.onrender.com/)
+### ⛽ Fuel Finder — 🏆 Award Winner
+> **2nd Place Winner** – Safaricom Talent Cloud Capstone. Real-time fuel discovery platform.
+- [**Live Demo 🔗**](https://fuel-finder-frontend.onrender.com/) · `React` · `Node.js` · `Redis`
+
+### 📰 Headless CMS Platform
+> Modular CMS with role-based access and structured content workflows for production-ready publishing.
+- [**Live Demo 🔗**](https://cmc-project-cx9u.vercel.app/login) · `React` · `TypeScript` · `Next.js`
+
+### 🏢 Rent Management System
+> Digitized housing workflows with modules for tenants, rentals, payments, and operational reporting.
+- [**Live Demo 🔗**](https://www.act.com.et/) · `React` · `PostgreSQL` · `Node.js`
+
+### 🧪 YAB Chemicals Website
+> Modern corporate web presence built to improve product visibility and customer trust.
+- [**Live Demo 🔗**](https://www.yabchemicals.com/) · `React` · `TypeScript` · `Tailwind`
+
+### 🌐 Elisoft Solution
+> Fully dynamic Laravel website with ERP-focused software delivery for business operations.
+- [**Live Demo 🔗**](https://elisoftsolution.com/) · `PHP` · `Laravel` · `MySQL` · `Blade`
+
+### 🌾 Agriculture Management
+> Crop tracking, GIS field mapping and predictive analytics for yield optimization.
+- `Next.js` · `MongoDB` · `GIS`
 
 ---
 
@@ -260,7 +291,27 @@ I am a Full-Stack Software Engineer specializing in **Distributed Systems** and 
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasAbrish&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="60%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasAbrish&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF" width="95%" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RasAbrish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
+</p>
+
+### 📈 Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasAbrish&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RasAbrish&theme=tokyonight&utcOffset=3" width="48%" />
 </p>
 
 ---
