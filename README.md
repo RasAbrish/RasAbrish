@@ -298,24 +298,6 @@ I am a Full-Stack Software Engineer specializing in **Distributed Systems** and 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasAbrish&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF" width="95%" />
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RasAbrish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
-</p>
-
-### 📈 Profile Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasAbrish&theme=tokyonight" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RasAbrish&theme=tokyonight&utcOffset=3" width="48%" />
-</p>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RasAbrish&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
   <br />
