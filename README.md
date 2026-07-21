@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abrham+Ababu+👋;Full-Stack+Software+Engineer;Microservices+%26+ERP+Architect;Building+Impactis+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abrham+Ababu+👋;Full-Stack+Software+Engineer;Microservices+%26+ERP+Architect;Building+Skiwai+%26+HaLink+🚀" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/Focus-Distributed_Systems-00F7FF?style=flat-square" />
@@ -245,12 +245,16 @@ I am a Full-Stack Software Engineer specializing in **Distributed Systems** and 
 
 ## 🚀 Featured Ecosystems
 
-### 🤝 Impactis — Enterprise Deal Infrastructure
-> A high-stakes **Execution Platform** utilizing a **NestJS Microservices** architecture.
-- **Security:** Integrated **Better Auth** for robust session management.
-- **UI:** Custom dashboard built with **Shadcn UI** and **Next.js 15**.
-- **Data:** Complex relational mapping via **Prisma** and **PostgreSQL**.
-- `NestJS` · `Next.js` · `Better Auth` · `Prisma` · `PostgreSQL`
+### 🔗 HaLink Technology PLC — Founder & CTO
+> Public technology-company platform built with a co-founder for HaLink Technology PLC.
+- **Role:** Key Founder and CTO, leading technical direction and product execution.
+- [**Live Demo 🔗**](https://halink.et/) · `Next.js` · `JavaScript` · `CSS`
+
+### 🤝 Skiwai Platform — Formerly Impactis
+> Startup ecosystem platform connecting founders with advisors and legal funding support.
+- **Focus:** AngelList-inspired founder/advisor discovery, startup support, and platform workflows.
+- **Role:** Full-stack development across frontend, backend, and deployment.
+- [**Live Demo 🔗**](https://skiwai.com/) · `Next.js` · `NestJS` · `AWS` · `Cloudflare`
 
 ### 🏠 AAHRAMS — Rental ERP
 > Full-stack rental agreement platform presented to Addis Ababa city stakeholders for real-world adoption.
